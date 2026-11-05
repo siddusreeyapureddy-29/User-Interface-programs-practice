@@ -66,21 +66,7 @@ The main goal of this repository is to strengthen my frontend development fundam
 
 
 
-## 🚀 How to Run the Programs
 
-1. Clone this repository:
-
-   ```bash
-   git clone <your-github-repository-url>
-   ```
-
-2. Open the project folder in Visual Studio Code.
-
-3. Navigate to the required HTML file.
-
-4. Open the HTML file in your browser or use the VS Code Live Server extension.
-
-5. Explore and practise the examples.
 
 ## 💡 Learning Outcomes
 
@@ -97,13 +83,3 @@ The main goal of this repository is to strengthen my frontend development fundam
 - Explore JavaScript DOM manipulation.
 - Develop mini frontend projects.
 - Learn modern frontend frameworks.
-
-## 👨‍💻 Author
-
-**Siddu**
-
-Frontend Development Learner
-
-## 📜 License
-
-This repository is intended for learning, practice, and educational purposes.
